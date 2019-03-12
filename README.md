@@ -1,4 +1,3 @@
-
 # Advanced Lane Finding
 ![Advance Lane Finding](images/AdvancedLaneFinding.png)
 
